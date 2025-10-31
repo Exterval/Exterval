@@ -1,5 +1,8 @@
-## Hi there 👋
-I am Exterval, i code things that just pop up in my head.
+## Hello, I am Exterval.
+I code things that just pop up in my head. 
+Languages I use are: JavaScript, Java, and Python. 
+I like building web apps for fun.
+
 <!--
 **Exterval/Exterval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
