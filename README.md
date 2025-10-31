@@ -1,5 +1,5 @@
 ## Hi there 👋
-# I am Exterval, i code things that just pop up in my head.
+I am Exterval, i code things that just pop up in my head.
 <!--
 **Exterval/Exterval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
